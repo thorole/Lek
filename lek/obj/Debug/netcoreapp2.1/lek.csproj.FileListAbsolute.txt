@@ -1,0 +1,11 @@
+/Users/MarteEggen/Projects/lek/lek/obj/Debug/netcoreapp2.1/lek.csprojAssemblyReference.cache
+/Users/MarteEggen/Projects/lek/lek/obj/Debug/netcoreapp2.1/lek.csproj.CoreCompileInputs.cache
+/Users/MarteEggen/Projects/lek/lek/obj/Debug/netcoreapp2.1/lek.AssemblyInfoInputs.cache
+/Users/MarteEggen/Projects/lek/lek/obj/Debug/netcoreapp2.1/lek.AssemblyInfo.cs
+/Users/MarteEggen/Projects/lek/lek/bin/Debug/netcoreapp2.1/lek.deps.json
+/Users/MarteEggen/Projects/lek/lek/bin/Debug/netcoreapp2.1/lek.runtimeconfig.json
+/Users/MarteEggen/Projects/lek/lek/bin/Debug/netcoreapp2.1/lek.runtimeconfig.dev.json
+/Users/MarteEggen/Projects/lek/lek/bin/Debug/netcoreapp2.1/lek.dll
+/Users/MarteEggen/Projects/lek/lek/bin/Debug/netcoreapp2.1/lek.pdb
+/Users/MarteEggen/Projects/lek/lek/obj/Debug/netcoreapp2.1/lek.dll
+/Users/MarteEggen/Projects/lek/lek/obj/Debug/netcoreapp2.1/lek.pdb
